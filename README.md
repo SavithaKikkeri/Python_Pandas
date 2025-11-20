@@ -1,7 +1,7 @@
 # Python_Pandas
-# 📊 Pandas Learning Repository
+# 📊 Pandas Repository
 
-Welcome to the **Pandas Learning Repository**!  
+Welcome to the **Pandas Repository**!  
 This project contains Jupyter notebooks designed to introduce beginners to **Pandas**, one of the most powerful Python libraries for data manipulation and analysis.  
 
 The notebooks progress from beginner-friendly concepts to more advanced DataFrame operations — each with explanations and hands-on exercises.
@@ -13,7 +13,6 @@ The notebooks progress from beginner-friendly concepts to more advanced DataFram
 ### 1️⃣ `02_PandasDataFrames_01.ipynb`  
 ### **➡️ Intro to Pandas – DataFrame Basics (Part 1)**
 
-**Topics covered:**
 - 🧱 Creating DataFrames from Python collections  
 - 🔍 Understanding DataFrame properties  
 - 🎯 Selecting columns  
@@ -27,7 +26,7 @@ The notebooks progress from beginner-friendly concepts to more advanced DataFram
 ### 2️⃣ `02_PandasDataFrames_02.ipynb`  
 ### **➡️ DataFrame Basics (Part 2)**
 
-**Topics covered:**
+
 - 📚 Selecting multiple columns  
 - 🎛️ Selecting rows using `.loc` and `.iloc`  
 - 🔎 Boolean filtering  
@@ -40,7 +39,7 @@ The notebooks progress from beginner-friendly concepts to more advanced DataFram
 ### 3️⃣ `03_Pandas_DataFrames_Continued_01.ipynb`  
 ### **➡️ Handling Missing Values**
 
-**Topics covered:**
+
 - ❓ Understanding missing (NA) values  
 - 🧪 Using `.isna()` and `.notna()`  
 - 🔢 Counting missing data  
